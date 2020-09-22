@@ -1,0 +1,1 @@
+STUDENTS = ['masha', 'david', 'barsik']
